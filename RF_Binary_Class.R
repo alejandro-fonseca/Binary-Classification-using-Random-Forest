@@ -1,7 +1,5 @@
 #This Random Forest algorithm has been adapted from Advance Image Analysis Course material
-# The code was used for entire classification of the AOI and assess the performance
-#of RF in detecting ASM. And also for Comparison purposes in a delimited area. 
-#The last version of this code is for the ladder.
+# The code was used for entire classification of the AOI and assess the performance of RF in binary classification
 
 
 #remove everything
